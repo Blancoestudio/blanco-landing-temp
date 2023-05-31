@@ -53,7 +53,7 @@ export const HomePage = () => {
               <div className="d-flex align-items-center justify-content-center gap-3 mb-4 animate__animated animate__delay-1s animate__fadeInUp">
                 <p className="mb-0 text-secondary"><small>Lanzaremos nuestro nuevo sitio web!</small></p>
                 <button type="button" className="btn btn-outline-warning btn-sm mb-0 px-3"  disabled>
-                  <small>Mayo 18, 2023</small>
+                  <small>Junio 9, 2023</small>
                 </button>
               </div>
             </div>
